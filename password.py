@@ -1,5 +1,4 @@
 # author = Ignasius Grina Dawang Majaya
-# NIM = 210104025 TK21A1
 # Universitas Duta Bangsa Surakarta
 
 def password():

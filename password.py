@@ -1,6 +1,3 @@
-# author = Ignasius Grina Dawang Majaya
-# Universitas Duta Bangsa Surakarta
-
 def password():
     passwrd = input("Input your Password : ")
     pas = len(passwrd)
